@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Liuzy0908
-- 👀 I’m interested in Autonomous vehicles
-- 🌱 I’m currently learning the Deep Reinforcement Learning
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I'm @Liuzy0908
+- 👀 I'm interested in the Autonomous Driving
+- 🌱 I'm currently learning the PnC and the Deep Reinforcement Learning
+- 💞️ I'm looking to collaborate on PnC for Automatic vehicles
 - 📫 How to reach me : Liu_zy0908@163.com
 
 <!---
